@@ -1,0 +1,11 @@
+H1,Turin,Italy,1965
+H2,Turin,Italy,2020
+H3,Turin,Italy,2004
+H11,Milan,Italy,2019
+H12,Milan,Italy,2019
+H21,Barcelona,Spain,2004
+H22,Barcelona,Spain,2014
+H31,Madrid,Spain,2004
+H41,Malaga,Spain,1965
+H42,Malaga,Spain,1978
+H43,Malaga,Spain,2001
